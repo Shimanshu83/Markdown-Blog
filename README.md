@@ -4,4 +4,4 @@ A simple CRUD Application built on Node Js where you can create a blog. You can 
 
 Creating a blog 
 All Articles 
-![All Articles](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
+![All Articles](https://ibb.co/QfVGK32)
